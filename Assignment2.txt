@@ -1,0 +1,7 @@
+1.Json data is imported into a HTML Table using jquery/javascript.
+2.HTML table is defined in myindex.html
+3.Styling of the Table and HTML is in mystyles.css
+4.Javascript to populate data from Json to HTML is in myscript.js
+5.The JSON data to be populated is in mydata.json
+6.To use fetch cmd in jquery, a google api for the library is loaded in HTML.
+7.In case of CORS plocy error, Open with Live server in Visual studio code.

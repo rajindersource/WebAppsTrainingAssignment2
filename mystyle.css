@@ -1,0 +1,84 @@
+body {
+    margin: 10px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+  color: #333;
+}
+
+#load-btn {
+    color: black;
+    border:  thin solid #d4d4d4;
+    border-radius: 2px;
+    background-color: slategrey;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table {
+    width: 90%;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+table tr:hover {
+    background-color: rgb(220, 223, 223);
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+    text-align: center;
+    border:  thin solid #d4d4d4;
+    padding: 5px;
+
+}
+
+th {
+    padding: 10px;
+    font-size: 20px;
+}
+
+button {
+    padding: 5px;
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    size: a3;
+}
+
+#load-btn {
+    font-size: 15px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #f4f4f4;
+}
+
+.edit button {
+    padding: 5px;
+    margin: 5px;
+    width: 60px;
+    background-color: #305930;
+    color: white;
+}
+
+.delete button {
+margin: 5px;
+padding: 5px;
+width: 60px;
+background-color: rgb(180, 62, 62);
+color: white;
+
+}
